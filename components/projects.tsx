@@ -32,7 +32,7 @@ const projects: Project[] = [
     title: 'TicTacToe Program',
     year: '2024',
     description: 'TicTacToe Game played in console with multiple player type options including Computer',
-    image: '/images/game.png',
+    image: '/images/game1.png',
     technologies: ['Java', 'OOP Principles', ],
     link: 'https://github.com/arsiakh/TicTacToe',
     
